@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Digital Classicist Berlin == {{ page.title }}</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+
+  <link rel="stylesheet" type="text/css" href="simple_square/style/style.css" />
+	<style type="text/css">
+	    .form-label{
+	        width:150px !important;
+	    }
+	    .form-label-left{
+	        width:150px !important;
+	    }
+	    .form-line{
+	        padding-top:10px;
+	        padding-bottom:10px;
+	    }
+	    .form-label-right{
+	        width:150px !important;
+	    }
+	    .form-all{
+	        width:516px;
+	        color:Black !important;
+	        font-family:'Verdana';
+	        font-size:12px;
+	    }
+		.form-all ul li{list-style-type: none;}
+		.qq-uploader { position:relative; width:224px;}
+		.qq-upload-button {
+		    /*background: none repeat scroll 0 0 #B5B5B5;*/
+		    background: #ffa84c; /* old browsers */
+		    background: -moz-linear-gradient(top, #FBCB5D 0%, #EFA003 100%); /* firefox */
+		    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FBCB5D), color-stop(100%,#EFA003)); /* webkit */
+		    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FBCB5D', endColorstr='#EFA003',GradientType=0 ); /* ie */
+		    color: #FFFFFF;
+		    display: block;
+		    font-size:16px;
+		    padding: 8px 0;
+		    text-align: center;
+		    text-shadow: 0 -1px #C64F00;
+		    border: 1px solid #C64F00;
+		    -moz-border-radius:5px 5px;
+		    -webkit-border-radius:5px 5px;
+		    border-radius:5px 5px;
+		}
+		.form-button-error{
+		    color:red;
+		    display:inline;
+		}
+	</style>
+	<script src="js/prototype.js?v=3.0.3706" type="text/javascript"></script>
+	<script src="js/protoplus.js?v=3.0.3706" type="text/javascript"></script>
+	<script src="js/protoplus-ui.js?v=3.0.3706" type="text/javascript"></script>
+	<script src="js/jotform.js?v=3.0.3706" type="text/javascript"></script>
+	<script src="js/calendarview.js?v=3.0.3706" type="text/javascript"></script>
+	<script type="text/javascript">
+	   JotForm.init(function(){
+	      $('input_4').hint('ex: myname@example.com');
+	   });
+	</script>
+</head>
+
+<body>
+  <div id="main">
+    <div id="links"></div>
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the logo text -->
+          <h1>Digital Classicist <span class="green">Berlin</span></h1>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="tab_selected" in the li tag for the selected page - to highlight which page you're on -->
+
+		  <li><a href="/berlin/">Home</a></li>
+		  <li><a href="/berlin/cfp">CfP</a></li>
+		<li class="selected"><a href="/berlin/submit">Submit</a></li>
+		  <li><a href="/berlin/about">About</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+		<h1>Latest News</h1>
+		{% for post in site.posts limit:5 %}
+			<h2>{{post.title}}</h2>
+			<h3>{{ post.date | date: "%d %B %Y" }}</h3>
+			<p>{{ post.content | truncate: 150 }}
+				Read more <a href="/berlin{{post.url}}">here</a>.</p>
+		{% endfor %}
+
+        <h1>Partner Sites</h1>
+        <ul>
+          <li><a target="_blank" href="http://digitalclassicist.org/">The Digital Classicist</a></li>
+		  <li><a target="_blank" href="http://www.e-humanities.net/events/2012-ehum-seminar-call.html">Leipzig e-Humanities Seminar</a></li>
+		  <li><a target="_blank" href="http://www.gcdh.de/">Göttingen Centre for Digital Humanities</a></li>
+		  <li><a target="_blank" href="http://de.digitalclassicist.org/">The Digital Classicist Germany</a></li>
+
+        </ul>
+
+		<a href="http://www.dainst.org" target="_blank">
+			<img src="/berlin/files/dai_logo.png" height="80px" alt="" title="" style="margin-left:50px"/>
+		</a>
+		<a href="http://www.topoi.org" target="_blank">
+			<img src="/berlin/files/topoi_logo.png" width="190px" alt="" title=""/>
+		</a>
+
+      </div>
+      
+      <div id="content">
+	{{content}}
+	<form class="jotform-form" action="http://submit.jotformeu.com/submit.php" method="post" enctype="multipart/form-data" name="form_21904077586359" id="21904077586359" accept-charset="utf-8">
+	  <input type="hidden" name="formID" value="21904077586359" />
+	  <div class="form-all">
+	    <ul class="form-section">
+	      <li id="cid_1" class="form-input-wide">
+	        <div class="form-header-group">
+	        </div>
+	      </li>
+	      <li class="form-line form-line-column" id="id_3">
+	        <label class="form-label-top" id="label_3" for="input_3"> Name <span class="form-required">*</span></label>
+	        <div id="cid_3" class="form-input-wide"><span class="form-sub-label-container"><input class="form-textbox validate[required]" type="text" size="10" name="q3_fullName3[first]" id="first_3" />
+	            <label class="form-sub-label" for="first_3" id="sublabel_first"> First Name </label></span><span class="form-sub-label-container"><input class="form-textbox validate[required]" type="text" size="15" name="q3_fullName3[last]" id="last_3" />
+	            <label class="form-sub-label" for="last_3" id="sublabel_last"> Last Name </label></span>
+	        </div>
+	      </li>
+	      <li class="form-line form-line-column" id="id_4">
+	        <label class="form-label-top" id="label_4" for="input_4"> E-mail <span class="form-required">*</span></label>
+	        <div id="cid_4" class="form-input-wide"><span class="form-sub-label-container"><input type="email" class="form-textbox validate[required] validate[Email]" id="input_4" name="q4_email4" size="30" />
+	            <label class="form-sub-label" for="input_4"> So that we can get back to you </label></span>
+	        </div>
+	      </li>
+	      <li class="form-line" id="id_6">
+	        <label class="form-label-top" id="label_6" for="input_6"> Description </label>
+	        <div id="cid_6" class="form-input-wide"><span class="form-sub-label-container"><textarea id="input_6" class="form-textarea" name="q6_description" cols="57" rows="6"></textarea>
+	            <label class="form-sub-label" for="input_6"> Should we need to know anything about this file? </label></span>
+	        </div>
+	      </li>
+	      <li class="form-line" id="id_5">
+	        <label class="form-label-top" id="label_5" for="input_5">
+	          Upload File<span class="form-required">*</span>
+	        </label>
+	        <div id="cid_5" class="form-input-wide"><span class="form-sub-label-container"><div class="qq-uploader-buttonText-value">
+	              Upload a File
+	            </div>
+	            <input class="form-upload-multiple validate[required]" type="file" id="input_5" name="q5_uploadFile[]" multiple="multiple" file-accept="*" file-maxsize="5120" />
+	            <label class="form-sub-label" for="input_5"> You can upload any type of file. Max: 5 MB </label></span>
+	        </div>
+	      </li>
+	      <li class="form-line" id="id_2">
+	        <div id="cid_2" class="form-input-wide">
+	          <div style="text-align:left" class="form-buttons-wrapper">
+	            <button id="input_2" type="submit" class="form-submit-button">
+	              Send Now!
+	            </button>
+	          </div>
+	        </div>
+	      </li>
+	      <li style="display:none">
+	        Should be Empty:
+	        <input type="text" name="website" value="" />
+	      </li>
+	    </ul>
+	  </div>
+	  <input type="hidden" id="simple_spc" name="simple_spc" value="21904077586359" />
+	  <script type="text/javascript">
+	  document.getElementById("si" + "mple" + "_spc").value = "21904077586359-21904077586359";
+	  </script>
+	</form>
+      </div>
+      
+    </div>
+    <div id="footer">The Digital Classicist Berlin | <a href="http://feeds.feedburner.com/DigitalClassicistBerlin" target="_blank">RSS Feed</a> | Last Modified: {{ site.time | date_to_string }} | <a href="http://www.dcarter.co.uk">CSS by dcarter</a></div>
+  </div>
+</body>
+</html>

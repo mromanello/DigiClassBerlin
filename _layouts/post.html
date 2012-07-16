@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Digital Classicist Berlin == {{ page.title }}</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+
+  <link rel="stylesheet" type="text/css" href="/berlin/simple_square/style/style.css" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="links"></div>
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the logo text -->
+          <h1>Digital Classicist <span class="green">Berlin</span></h1>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="tab_selected" in the li tag for the selected page - to highlight which page you're on -->
+	  
+
+	  <li><a href="/berlin/index">Home</a></li>
+
+      <li class="selected"><a href="/berlin/blog">Blog</a></li>
+
+	  <li><a href="/berlin/cfp">CfP</a></li>
+
+	  <li><a href="/berlin/submit">Submit</a></li>
+
+	  <li><a href="/berlin/about">About</a></li>
+
+	
+	  <!--
+	  {% if page.title == 'Code' %}
+	  <li class="tab_selected"><a href="/code.html">Code</a></li>
+	  {% else %}
+	  <li><a href="/code.html">Code</a></li>
+	  {% endif %}
+	  {% if page.title == 'Data' %}
+	  <li class="tab_selected"><a href="/data.html">Data</a></li>
+	  {% else %}
+	  <li><a href="/data.html">Data</a></li>
+	  {% endif %}
+	  {% if page.title == 'Publications' %}
+	  <li class="tab_selected"><a href="/publications.html">Publications</a></li>
+	  {% else %}
+	  <li><a href="/publications.html">Publications</a></li>
+	  {% endif %}
+	  -->
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+		<h1>Latest News</h1>
+		{% for post in site.posts limit:5 %}
+			<h2>{{post.title}}</h2>
+			<h3>{{ post.date | date: "%d %B %Y" }}</h3>
+			<p>{{ post.content | truncate: 150 }}
+				Read more <a href="/berlin{{post.url}}">here</a>.</p>
+		{% endfor %}
+
+        <h1>Partner Sites</h1>
+        <ul>
+          <li><a target="_blank" href="http://digitalclassicist.org/">The Digital Classicist</a></li>
+		  <li><a target="_blank" href="http://www.e-humanities.net/events/2012-ehum-seminar-call.html">Leipzig e-Humanities Seminar</a></li>
+		  <li><a target="_blank" href="http://www.gcdh.de/">Göttingen Centre for Digital Humanities</a></li>
+		  <li><a target="_blank" href="http://de.digitalclassicist.org/">The Digital Classicist Germany</a></li>
+
+        </ul>
+
+		<a href="http://www.dainst.org" target="_blank">
+			<img src="/berlin/files/dai_logo.png" height="80px" alt="" title="" style="margin-left:50px"/>
+		</a>
+		<a href="http://www.topoi.org" target="_blank">
+			<img src="/berlin/files/topoi_logo.png" width="190px" alt="" title=""/>
+		</a>
+
+      </div>
+      
+      <div id="content">
+		<h2>{{page.title}}</h2>
+		<h3>Posted on <a href="/berlin{{page.url}}">{{page.date| date: "%d %B %Y"}}</a></h3>
+		{{content}}
+      </div>
+      
+    </div>
+    <div id="footer">The Digital Classicist Berlin | <a href="http://validator.w3.org/check?uri=referer"> Valid HTML5</a> | Last Modified: {{ site.time | date_to_string }} | <a href="http://www.dcarter.co.uk">design by dcarter</a></div>
+  </div>
+</body>
+</html>
