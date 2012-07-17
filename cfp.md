@@ -11,6 +11,6 @@ We warmly welcome contributions from students as well as established researchers
 
 The seminars will run on Tuesday evenings (17:00-18:30) starting from October 2012 in the TOPOI Haus, Dahlem, hosted by the Excellence Cluster TOPOI.
 
-There is a budget to assist with travel to Berlin (usually from within Germany, we have occasionally been able to assist international presenters to attend, so please enquire).
+There is a budget to assist with travel to Berlin (usually from within Germany, but we may be able to assist international presenters to attend, so please enquire).
 
 Paper submission is now open: upload your abstract of 300-500 words max. (bibliographic references excluded) using **[this form](submit)** by 14 September 2012 (Berlin time).
