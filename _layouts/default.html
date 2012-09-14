@@ -11,6 +11,18 @@
   <meta name="keywords" content="website keywords, website keywords" />
   <link type="application/atom+xml" rel="alternate" href="/berlin/atom.xml"/>
   <link rel="stylesheet" type="text/css" href="/berlin/simple_square/style/style.css" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33857246-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
 </head>
 
 <body>
@@ -75,8 +87,8 @@
 		{% for post in site.posts limit:5 %}
 			<h2>{{post.title}}</h2>
 			<h3>{{ post.date | date: "%d %B %Y" }}</h3>
-			<p>{{ post.content | truncate: 150 }}
-				Read more <a href="/berlin{{post.url}}">here</a>.</p>
+			{{ post.content | truncate: 150 }}
+				Read more <a href="/berlin{{post.url}}">here</a>.
 		{% endfor %}
 
         <h1>Partner Sites</h1>
