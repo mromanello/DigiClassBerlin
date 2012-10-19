@@ -83,9 +83,7 @@ ol li
 { padding-bottom: 20px;}
 
 #header
-{ background: #333;
-  height: 170px;
-  margin-bottom: 30px;}
+{ background: url("/berlin/files/banner_versA.jpg") no-repeat scroll 160px 0 #333333;}
 
 #logo
 { width: 840px;
@@ -95,7 +93,9 @@ ol li
 #logo #logo_text 
 { position: absolute; 
   top: 10px;
-  left: 0;}
+  left: 0;
+  visibility:hidden;	
+}
 
 #logo h1, #logo h2
 { font: normal 300% "century gothic", arial, sans-serif;
