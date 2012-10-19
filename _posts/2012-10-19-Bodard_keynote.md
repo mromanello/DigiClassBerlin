@@ -3,15 +3,19 @@ layout: post
 title: "DCSB opening keynote: \"A View on Digital Classics Collaboration\""
 topics: seminar, 2012/2013, berlin
 ---
-[Dr Gabriel Bodard (King’s College London)](http://www.kcl.ac.uk/artshums/depts/ddh/people/research/bodard) will be giving the opening keynote of the Digital Classicist Berlin Seminar series entitled “A View on Digital Classics Collaboration: from a cacophony of epigraphic databases to a citizens' web of inscriptions”.
+[Dr Gabriel Bodard (King’s College London)](http://www.kcl.ac.uk/artshums/depts/ddh/people/research/bodard) will be giving the opening keynote of the Digital Classicist Berlin Seminar series entitled **“A View on Digital Classics Collaboration: from a cacophony of epigraphic databases to a citizens' web of inscriptions”**.
 
 **Date:** Tuesday, 23 October 2012
 
 **Time:** 17:00-18:30
 
-**Venue:** [Deutsches Archäologisches Institut, Wiegandhaus, Podbielskiallee 69-71, 14195 Berlin-Dahlem](http://goo.gl/maps/TfRfy). A more detailed map of the DAI and surrounding areas can be downloaded from [here](/berlin/files/Anreise_zum_DAI.pdf).
+**Venue:** [Deutsches Archäologisches Institut, Wiegandhaus, Podbielskiallee 69-71, 14195 Berlin-Dahlem](http://goo.gl/maps/TfRfy). 
+
+A more detailed map of the DAI and surrounding areas can be downloaded from [here](/berlin/files/Anreise_zum_DAI.pdf).
 
 <img src="/berlin/files/73_X_23A.jpg" width="500px"/>
+
+[image of the [funerary inscription for Marcus Aurelius Zenon, IAph2007](http://insaph.kcl.ac.uk/iaph2007/iAph110059.html)]
 
 ## Abstract
 
