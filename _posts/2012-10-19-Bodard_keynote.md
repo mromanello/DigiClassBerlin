@@ -9,9 +9,9 @@ topics: seminar, 2012/2013, berlin
 
 **Time:** 17:00-18:30
 
-**Venue:** [Deutsches Archäologisches Institut, Wiegandhaus, Podbielskiallee 69-71, 14195 Berlin-Dahlem](http://goo.gl/maps/TfRfy). A more detailed map of the DAI and surrounding areas can be downloaded from [here](../files/Anreise_zum_DAI.pdf).
+**Venue:** [Deutsches Archäologisches Institut, Wiegandhaus, Podbielskiallee 69-71, 14195 Berlin-Dahlem](http://goo.gl/maps/TfRfy). A more detailed map of the DAI and surrounding areas can be downloaded from [here](/berlin/files/Anreise_zum_DAI.pdf).
 
-<img src="../files/73_X_23A.jpg" width="500px"/>
+<img src="/berlin/files/73_X_23A.jpg" width="500px"/>
 
 ## Abstract
 
