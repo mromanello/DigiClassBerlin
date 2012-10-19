@@ -94,7 +94,11 @@ ol li
 { position: absolute; 
   top: 10px;
   left: 0;
+<<<<<<< HEAD
   visibility:hidden;	
+=======
+  visibility: hidden;
+>>>>>>> 6a24635da748045b136b56b2a2ba40d5fb4111a5
 }
 
 #logo h1, #logo h2

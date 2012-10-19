@@ -3,8 +3,8 @@ layout: form
 title: Submit
 ---
 
-## Upload your abstract
+## Submission
 
-To submit your abstract for the seminar please use the form below.
+Submissions are now **closed**: the deadline for the CFP was at **midnight MET on September 14, 2012**. 
 
-The abstract should be **max. 300-500 words** long (bibliographic references excluded).
+Thanks to all of you who considered submitting an abstract for the seminar: we will get back to you as soon as the reviewing process is completed! 
