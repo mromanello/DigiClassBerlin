@@ -45,6 +45,8 @@
 
       <li class="selected"><a href="/berlin/blog">Blog</a></li>
 
+	  <li><a href="/berlin/seminar2012">Programme</a></li>
+
 	  <li><a href="/berlin/cfp">CfP</a></li>
 
 	  <li><a href="/berlin/submit">Submit</a></li>
@@ -75,7 +77,7 @@
     <div id="site_content">
       <div class="sidebar">
 		<h1>Latest News</h1>
-		{% for post in site.posts limit:5 %}
+		{% for post in site.posts limit:2 %}
 			<h2>{{post.title}}</h2>
 			<h3>{{ post.date | date: "%d %B %Y" }}</h3>
 			{{ post.content | truncate: 150 }}
@@ -88,6 +90,7 @@
 		  <li><a target="_blank" href="http://www.e-humanities.net/events/2012-ehum-seminar-call.html">Leipzig e-Humanities Seminar</a></li>
 		  <li><a target="_blank" href="http://www.gcdh.de/">Göttingen Centre for Digital Humanities</a></li>
 		  <li><a target="_blank" href="http://de.digitalclassicist.org/">The Digital Classicist Germany</a></li>
+		  <li><a target="_blank" href="http://www.cceh.uni-koeln.de/">Cologne Center for eHumanities (CCeH)</a></li>
 
         </ul>
 

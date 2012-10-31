@@ -15,7 +15,7 @@ A more detailed map of the DAI and surrounding areas can be downloaded from [her
 
 <img src="/berlin/files/73_X_23A.jpg" width="500px"/>
 
-[image of the [funerary inscription for Marcus Aurelius Zenon, IAph2007](http://insaph.kcl.ac.uk/iaph2007/iAph110059.html)]
+(image of the [funerary inscription for Marcus Aurelius Zenon, IAph2007](http://insaph.kcl.ac.uk/iaph2007/iAph110059.html))
 
 ## Abstract
 
