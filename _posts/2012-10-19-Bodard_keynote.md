@@ -36,3 +36,9 @@ drawing from the papyrological community that might combine these two
 facets, building scale without sacrificing quality, and harnessing the
 epigraphic scholarly community to build a more powerful and
 interoperable epigraphic corpus.
+
+## Slides
+
+<iframe src="http://de.slideshare.net/slideshow/embed_code/15350563" width="512" height="421" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe> 
+
+Or you can download the slides from [here](/berlin/files/dcsb_bodard_231012.pdf).
