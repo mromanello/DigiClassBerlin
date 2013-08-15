@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 ---
-{% for post in site.posts limit:5 %}
+{% for post in site.posts %}
   <div class="item">
     <div class="item_details">
       <h2><a href="/berlin{{ post.url }}" title="Permalink for this post">{{ post.title }}</a></h2>

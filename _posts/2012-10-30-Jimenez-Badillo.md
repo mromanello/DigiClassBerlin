@@ -7,6 +7,8 @@ topics: seminar, 2012/2013, berlin
 <strong>Talk:</strong> Diego Jiménez-Badillo (INAH, Mexico), Salvador Ortíz-Correa and Omar Mendoza-Montoya (CIMAT, Mexico) "Classifying Formal Features of Archaeological Artefacts through the Application of Spectral Clustering".
 </p>
 
+**Permalink:** <http://hdl.handle.net/11858/00-1780-0000-000B-216A-E>
+
 **Date:** Tuesday, 06 November 2012
 
 **Time:** 17:00-18:30
@@ -57,3 +59,13 @@ Zelnik-Manor, L., and P. Perona.  2004. Self-Tuning Spectral Clustering. Advance
 <iframe src="http://de.slideshare.net/slideshow/embed_code/15348332" width="514" height="422" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe>
 
 Or you can download the slides from [here](/berlin/files/slides/dcsb_jimenez-badillo_06112012.pdf).
+
+## Video
+
+### Talk
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BC_ZV40EoD0?rel=0" frameborder="0"> </iframe>
+
+### Discussion
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/A3r_vX6fm1I?rel=0" frameborder="0"> </iframe>

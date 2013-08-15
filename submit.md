@@ -5,6 +5,6 @@ title: Submit
 
 ## Submission
 
-Submissions are now **closed**: the deadline for the CFP was at **midnight MET on September 14, 2012**. 
+To submit your abstract for the seminar please use the form below.
 
-Thanks to all of you who considered submitting an abstract for the seminar: we will get back to you as soon as the reviewing process is completed! 
+Abstracts, either in English or in German, of 300-500 words max. (bibliographic references excluded) **must** be uploaded **by midnight MET on September 1, 2013**.

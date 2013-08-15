@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+      <name>El Khemis</name>
+      <Point>
+        <coordinates>4.46012903088,36.8762089055</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1830</begin>
+        <end>1830</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Djebel Tamgout</name>
+      <Point>
+        <coordinates>4.40664613374,36.8208044671</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1846</begin>
+        <end>1846</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Daouark</name>
+      <Point>
+        <coordinates>4.43162616953,36.8224057514</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1909</begin>
+        <end>1909</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tifrit n'Aït el Hadj</name>
+      <Point>
+        <coordinates>4.41593358295,36.7923016058</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1911</begin>
+        <end>1911</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tamelit, Nähe</name>
+      <Point>
+        <coordinates>4.47838367242,36.7503479559</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1864</begin>
+        <end>1864</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tabbourt tr' Armi</name>
+      <Point>
+        <coordinates>4.47870392929,36.8967053451</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1859</begin>
+        <end>1859</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Azeffour, Nähe</name>
+      <Point>
+        <coordinates>4.4982395983,36.8858166115</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1889</begin>
+        <end>1889</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tikoubal</name>
+      <Point>
+        <coordinates>4.48350778232,36.8736468505</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1851</begin>
+        <end>1851</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Bou Chiboun, Nähe</name>
+      <Point>
+        <coordinates>4.49295535996,36.8560327227</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1906</begin>
+        <end>1906</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Bou Chiboun, Nähe</name>
+      <Point>
+        <coordinates>4.50416435038,36.8461047598</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1855</begin>
+        <end>1855</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Azeffoun, Nähe</name>
+      <Point>
+        <coordinates>4.5371508079,36.879731731</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1883</begin>
+        <end>1883</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tala Gahia</name>
+      <Point>
+        <coordinates>4.5506015964,36.8624378601</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1906</begin>
+        <end>1906</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tala Gahia, Nähe</name>
+      <Point>
+        <coordinates>4.54163440406,36.8467452735</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1871</begin>
+        <end>1871</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Pointe Ksila, Nähe</name>
+      <Point>
+        <coordinates>4.63226709801,36.8781304467</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1901</begin>
+        <end>1901</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Pointe Ksila, Nähe</name>
+      <Point>
+        <coordinates>4.60184269545,36.8787709604</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1888</begin>
+        <end>1888</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Cap Sigli, Nähe</name>
+      <Point>
+        <coordinates>4.80584632105,36.8685227406</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1857</begin>
+        <end>1857</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Djebel Taksebt</name>
+      <Point>
+        <coordinates>4.63867223539,36.7724456799</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1897</begin>
+        <end>1897</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>El Ksar mta Bent es Soltane</name>
+      <Point>
+        <coordinates>3.97926334196,36.6814927291</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1855</begin>
+        <end>1855</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tadjerouna</name>
+      <Point>
+        <coordinates>4.03210572536,36.6975055725</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1900</begin>
+        <end>1900</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>El Bénian</name>
+      <Point>
+        <coordinates>5.11478308815,36.6869654536</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1845</begin>
+        <end>1845</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Brakat, Nähe</name>
+      <Point>
+        <coordinates>5.04200265084,36.6223788404</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1839</begin>
+        <end>1839</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>El Hiout, Nähe</name>
+      <Point>
+        <coordinates>5.03798607041,36.6116144048</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1896</begin>
+        <end>1896</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tikaribine, Nähe</name>
+      <Point>
+        <coordinates>5.06726436235,36.6089637399</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1889</begin>
+        <end>1889</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Sidi Brahim</name>
+      <Point>
+        <coordinates>1.85745662474,36.5687357728</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1878</begin>
+        <end>1878</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tigzirt</name>
+      <Point>
+        <coordinates>4.12193777713,36.8928622626</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1839</begin>
+        <end>1839</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tiklat</name>
+      <Point>
+        <coordinates>4.84631485248,36.6586887274</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1836</begin>
+        <end>1836</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ziama</name>
+      <Point>
+        <coordinates>5.45476166733,36.660444812</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1831</begin>
+        <end>1831</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ziama, Nähe</name>
+      <Point>
+        <coordinates>5.48766513154,36.6714893315</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1877</begin>
+        <end>1877</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Aïn Akertou</name>
+      <Point>
+        <coordinates>5.49341748542,36.6369752082</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1877</begin>
+        <end>1877</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>El Guéroua, Nähe</name>
+      <Point>
+        <coordinates>5.54745906845,36.5800727199</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1909</begin>
+        <end>1909</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>El Guéroua, Nähe</name>
+      <Point>
+        <coordinates>5.54212821448,36.5696533235</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1901</begin>
+        <end>1901</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Bida</name>
+      <Point>
+        <coordinates>5.58598660397,36.5652917157</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1866</begin>
+        <end>1866</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Aïn ed Diba</name>
+      <Point>
+        <coordinates>5.55182067625,36.5197371455</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1839</begin>
+        <end>1839</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tassadane, Nähe</name>
+      <Point>
+        <coordinates>5.82129185428,36.4954644744</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1840</begin>
+        <end>1840</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tassadane</name>
+      <Point>
+        <coordinates>5.87856591068,36.4997152833</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1840</begin>
+        <end>1840</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Es Senat, Nähe</name>
+      <Point>
+        <coordinates>5.89847759435,36.5008339172</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1858</begin>
+        <end>1858</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Sidi bou Zeïd</name>
+      <Point>
+        <coordinates>7.56735617957,36.9891719954</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1873</begin>
+        <end>1873</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Azeffoun</name>
+      <Point>
+        <coordinates>4.43803130691,36.8912609783</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1901</begin>
+        <end>1901</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>El Habalet</name>
+      <Point>
+        <coordinates>6.50678051055,37.0657712514</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1850</begin>
+        <end>1850</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Cap Blanc</name>
+      <Point>
+        <coordinates>2.2392020429,36.6204723969</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1851</begin>
+        <end>1851</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ksar el Ghoula</name>
+      <Point>
+        <coordinates>6.31857947596,37.0265168096</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1876</begin>
+        <end>1876</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Chott, Nähe</name>
+      <Point>
+        <coordinates>6.32790557964,37.0516296382</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1904</begin>
+        <end>1904</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Senadek Elli Kherba</name>
+      <Point>
+        <coordinates>6.3617471373,37.0647245902</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1897</begin>
+        <end>1897</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Koudiat et Dis</name>
+      <Point>
+        <coordinates>4.04907933942,36.6726856652</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1874</begin>
+        <end>1874</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>El Khelouk</name>
+      <Point>
+        <coordinates>4.06637321035,36.6848554262</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1891</begin>
+        <end>1891</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Aguemmoun</name>
+      <Point>
+        <coordinates>4.07373911834,36.695103646</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1840</begin>
+        <end>1840</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Zurich</name>
+      <Point>
+        <coordinates>2.30119611797,36.5480545227</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1867</begin>
+        <end>1867</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tala Bounane</name>
+      <Point>
+        <coordinates>4.09135324614,36.6848554262</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1867</begin>
+        <end>1867</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Amiis</name>
+      <Point>
+        <coordinates>4.17109720654,36.7079139208</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1888</begin>
+        <end>1888</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tamda, Nähe</name>
+      <Point>
+        <coordinates>4.22137753498,36.707273407</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1869</begin>
+        <end>1869</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Aguemmoun Oubekkar</name>
+      <Point>
+        <coordinates>4.16693386724,36.68037183</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1875</begin>
+        <end>1875</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Takbout</name>
+      <Point>
+        <coordinates>4.17654157331,36.6714046377</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1840</begin>
+        <end>1840</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Bou Atelli</name>
+      <Point>
+        <coordinates>4.18999236181,36.6758882338</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1848</begin>
+        <end>1848</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Bou Sahel</name>
+      <Point>
+        <coordinates>4.21561291134,36.6774895182</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1884</begin>
+        <end>1884</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Agouni'n Tirermine</name>
+      <Point>
+        <coordinates>4.17301874775,36.6598753904</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1906</begin>
+        <end>1906</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Iril Oumaali</name>
+      <Point>
+        <coordinates>4.18262645382,36.6493069137</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1830</begin>
+        <end>1830</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Imaïnserène</name>
+      <Point>
+        <coordinates>4.20952803083,36.6454638313</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1906</begin>
+        <end>1906</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Djemaa Saharidj</name>
+      <Point>
+        <coordinates>4.28254659698,36.6848554262</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1832</begin>
+        <end>1832</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tizi n'Terga</name>
+      <Point>
+        <coordinates>4.29023276183,36.6528297393</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1834</begin>
+        <end>1834</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tizi n'Terga, Nähe</name>
+      <Point>
+        <coordinates>4.34948028261,36.6448233175</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1847</begin>
+        <end>1847</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Kouko</name>
+      <Point>
+        <coordinates>4.35460439252,36.6015886402</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1907</begin>
+        <end>1907</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ifira</name>
+      <Point>
+        <coordinates>4.41513294078,36.6653197572</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1854</begin>
+        <end>1854</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Moknéa</name>
+      <Point>
+        <coordinates>4.46733481044,36.6762084907</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1867</begin>
+        <end>1867</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ksar Chebel</name>
+      <Point>
+        <coordinates>4.47213866347,36.6995872422</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1886</begin>
+        <end>1886</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Col de K'frida</name>
+      <Point>
+        <coordinates>5.2653941775,36.5817526109</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1907</begin>
+        <end>1907</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tagma, Nähe</name>
+      <Point>
+        <coordinates>5.05832435751,36.6239742478</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1853</begin>
+        <end>1853</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tagma, Nähe</name>
+      <Point>
+        <coordinates>5.07691956623,36.6258546622</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1852</begin>
+        <end>1852</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tikaribine, Nähe</name>
+      <Point>
+        <coordinates>5.08214751589,36.6003004117</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1858</begin>
+        <end>1858</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Cap Aokas, Nähe</name>
+      <Point>
+        <coordinates>5.2063218865,36.6485040583</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1904</begin>
+        <end>1904</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Cap Aokas</name>
+      <Point>
+        <coordinates>5.23586605697,36.6402850033</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1909</begin>
+        <end>1909</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Sidi Réhane</name>
+      <Point>
+        <coordinates>5.26185604152,36.6274010794</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1879</begin>
+        <end>1879</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ouzlime, Nähe</name>
+      <Point>
+        <coordinates>5.26518809082,36.6142950188</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1910</begin>
+        <end>1910</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Aïn Riran</name>
+      <Point>
+        <coordinates>2.52687756526,36.5768219067</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1830</begin>
+        <end>1830</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Bou Tala, Nähe</name>
+      <Point>
+        <coordinates>5.28207047394,36.6158499751</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1855</begin>
+        <end>1855</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Dar ed Delam</name>
+      <Point>
+        <coordinates>2.55622046854,36.583983204</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1911</begin>
+        <end>1911</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>M'sbah, Nähe</name>
+      <Point>
+        <coordinates>5.26407740772,36.6042988709</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1896</begin>
+        <end>1896</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Halloula</name>
+      <Point>
+        <coordinates>2.54902858048,36.5544096858</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1909</begin>
+        <end>1909</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Cap Chenoua</name>
+      <Point>
+        <coordinates>2.39727974244,36.6258981124</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1834</begin>
+        <end>1834</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tipasa</name>
+      <Point>
+        <coordinates>2.44733528333,36.5976109344</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1875</begin>
+        <end>1875</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>M'sbah, Nähe</name>
+      <Point>
+        <coordinates>5.27275719047,36.5934874128</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1887</begin>
+        <end>1887</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tala Abaït, Nähe</name>
+      <Point>
+        <coordinates>5.24353523274,36.5589732895</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1893</begin>
+        <end>1893</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Sidi Ferruch</name>
+      <Point>
+        <coordinates>2.84450110453,36.7552389911</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1889</begin>
+        <end>1889</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tergregt, Nähe</name>
+      <Point>
+        <coordinates>5.23732269055,36.5467782993</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1911</begin>
+        <end>1911</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Cherchel, Nähe</name>
+      <Point>
+        <coordinates>2.21719486544,36.6099662027</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1881</begin>
+        <end>1881</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tizi n'Tigrount</name>
+      <Point>
+        <coordinates>5.19383489519,36.5327425558</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1853</begin>
+        <end>1853</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Souk el Tnin</name>
+      <Point>
+        <coordinates>5.33304185916,36.6282316303</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1848</begin>
+        <end>1848</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ksar Chebel, Nähe</name>
+      <Point>
+        <coordinates>4.51248336333,36.6952512544</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1887</begin>
+        <end>1887</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Tala Kitane</name>
+      <Point>
+        <coordinates>4.56047612596,36.6963177602</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1876</begin>
+        <end>1876</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ghorfat Er Roum, Nähe</name>
+      <Point>
+        <coordinates>4.6130015384,36.688407842</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1896</begin>
+        <end>1896</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Mustapha-Supérieur, boulevard Bru.</name>
+      <Point>
+        <coordinates>3.05648998461,36.7434920916</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1874</begin>
+        <end>1874</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Koléa</name>
+      <Point>
+        <coordinates>2.76210314124,36.6340624662</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1892</begin>
+        <end>1892</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Sainte-Amelie</name>
+      <Point>
+        <coordinates>2.89814660864,36.6808674666</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1855</begin>
+        <end>1855</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Haouch Chabane</name>
+      <Point>
+        <coordinates>2.90151263257,36.6480169334</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1905</begin>
+        <end>1905</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ferme La Consulaire</name>
+      <Point>
+        <coordinates>2.93741688789,36.6961629286</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1853</begin>
+        <end>1853</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ghorfat Er Roum</name>
+      <Point>
+        <coordinates>4.63895318041,36.6933848692</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1875</begin>
+        <end>1875</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ksar Kebouch</name>
+      <Point>
+        <coordinates>4.66170530492,36.6894743478</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1870</begin>
+        <end>1870</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Ksar Kebouch, Nähe</name>
+      <Point>
+        <coordinates>4.71503059673,36.7115154684</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1876</begin>
+        <end>1876</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Djeblaa, Nähe</name>
+      <Point>
+        <coordinates>4.80586134379,36.7356896007</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1864</begin>
+        <end>1864</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Djeblaa, Nähe</name>
+      <Point>
+        <coordinates>4.81723740604,36.7477766668</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1887</begin>
+        <end>1887</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark><Placemark>
+      <name>Casaubon, Nähe</name>
+      <Point>
+        <coordinates>4.71360858895,36.6924961143</coordinates>
+      </Point>
+      <TimeSpan>
+        <begin>1832</begin>
+        <end>1832</end>
+      </TimeSpan>
+	  <description><![CDATA[
+	
+	]]></description>
+    </Placemark>
+</Document>
+</kml>
