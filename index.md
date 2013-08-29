@@ -8,6 +8,7 @@ title: Home
 ## Lecture videos from the 2012/13 series:
 
 <!-- Slideshow 1 -->
+<div id="slideshow"> 
 <ul class="rslides" id="slider1">
 	<li><a href="http://hdl.handle.net/11858/00-1780-0000-000B-02A1-C#video"><img src="/berlin/files/carousel-images/Hauptfilm_20121023.jpg" alt=""></a></li>
     <li><a href="http://hdl.handle.net/11858/00-1780-0000-000B-216A-E#video"><img src="/berlin/files/carousel-images/Hauptfilm_20121106.jpg" alt=""></a></li>
@@ -20,6 +21,7 @@ title: Home
     <li><a href="http://hdl.handle.net/11858/00-1780-0000-000D-FC8D-4#video"><img src="/berlin/files/carousel-images/Hauptfilm_20130219.jpg" alt=""></a></li>
     <li><a href="http://hdl.handle.net/11858/00-1780-0000-000E-01D2-C#abstract"><img src="/berlin/files/carousel-images/Hauptfilm_20130305.jpg" alt=""></a></li>
 </ul>
+</div>
 
 After a successful first year, the Digital Classicist Berlin seminar series (inspired by the <a target="_blank" href="http://www.digitalclassicist.org/wip/">ICS London Seminar</a>) is preparing its 2013/14 progamme. The Call for Papers can be found ([here] (berlin/cfp)). 
 
