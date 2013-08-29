@@ -289,3 +289,94 @@ table tr td
 { background: #F5F5EC;
   color: #47433F;
   border-top: 1px solid #FFF;}
+
+/* Style portion for the js carousel on index page */
+/*! http://responsiveslides.com v1.54 by @viljamis */
+#slideshow {
+	margin: auto;
+    margin-bottom: 50px;
+    position: relative;
+    width: 95%;
+}
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+  
+/* Previous and Next buttons */
+.centered-btns_nav {
+    background: url("/berlin/files/prevNext.gif") no-repeat scroll left top transparent;
+    height: 61px;
+    left: -27px;
+    margin-top: -45px;
+    opacity: 0.7;
+    overflow: hidden;
+    position: absolute;
+    text-decoration: none;
+    text-indent: -9999px;
+    top: 50%;
+    width: 38px;
+    z-index: 3;
+}
+
+.centered-btns_nav.next {
+    background-position: right top;
+    left: auto;
+    right: 0;
+}
+  
+  
+/* Buttons below carousel */
+.centered-btns_tabs, .transparent-btns_tabs, .large-btns_tabs {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.centered-btns_tabs li, .transparent-btns_tabs li, .large-btns_tabs li {
+    display: inline;
+    float: none;
+    margin-right: 5px;
+}
+
+.centered-btns_tabs a, .transparent-btns_tabs a, .large-btns_tabs a {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.2);
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3) inset;
+    display: inline-block;
+    height: 9px;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 9px;
+}
+
+.centered-btns_here a, .transparent-btns_here a, .large-btns_here a {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
+}
