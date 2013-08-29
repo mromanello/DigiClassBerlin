@@ -11,6 +11,25 @@
   <meta name="keywords" content="website keywords, website keywords" />
   <link type="application/atom+xml" rel="alternate" href="/berlin/atom.xml"/>
   <link rel="stylesheet" type="text/css" href="simple_square/style/style.css" />
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="js/responsiveslides.min.js"></script>
+    <script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+
+      // Slideshow videos
+      $("#slider1").responsiveSlides({
+		auto: true,
+		pager: true,
+		nav: true,
+		speed: 500,
+		maxwidth: 550,
+		namespace: "centered-btns"
+		}); 
+
+    });
+  </script>
+
 </head>
 
 <body>
