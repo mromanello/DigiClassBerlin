@@ -5,6 +5,8 @@ title: Home
 
 # Welcome
 
+## Lecture videos from the 2012/13 series:
+
 <!-- Slideshow 1 -->
 <ul class="rslides" id="slider1">
 	<li><a href="http://hdl.handle.net/11858/00-1780-0000-000B-02A1-C"><img src="/berlin/files/carousel-images/Hauptfilm_20121023.jpg" alt=""></a></li>
@@ -24,6 +26,3 @@ After a successful first year, the Digital Classicist Berlin seminar series (ins
 The 2012/13 seminar abstracts, slides and lecture videos are all now online and can be viewed ([here](berlin/seminar2012))! 
 
 Subscribe to the [RSS feed](http://feeds.feedburner.com/DigitalClassicistBerlin) to receive the latest updates and join the conversation on Twitter with the hashtags **#digiclass** **#de**.
-
-Programme of the first year (new one will soon be available):
-<a href="/berlin/files/Poster-Full-Programme.pdf"><img src="/berlin/files/Poster-Full-Programme.png" width="500px"/></a>
