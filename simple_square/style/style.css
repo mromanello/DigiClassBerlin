@@ -324,3 +324,43 @@ table tr td
   width: 100%;
   border: 0;
   }
+  
+/* Previous and Next buttons */
+.centered-btns_nav {
+    background: url("/berlin/files/prevNext.gif") no-repeat scroll left top transparent;
+    height: 61px;
+    left: 0;
+    margin-top: -45px;
+    opacity: 0.7;
+    overflow: hidden;
+    position: absolute;
+    text-decoration: none;
+    text-indent: -9999px;
+    top: 50%;
+    width: 38px;
+    z-index: 3;
+}
+  
+  
+/* Buttons below carousel */
+.centered-btns_tabs, .transparent-btns_tabs, .large-btns_tabs {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.centered-btns_tabs li, .transparent-btns_tabs li, .large-btns_tabs li {
+    display: inline;
+    float: none;
+    margin-right: 5px;
+}
+
+.centered-btns_tabs a, .transparent-btns_tabs a, .large-btns_tabs a {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.2);
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3) inset;
+    display: inline-block;
+    height: 9px;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 9px;
+}
