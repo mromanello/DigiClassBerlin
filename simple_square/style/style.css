@@ -292,15 +292,14 @@ table tr td
 
 /* Style portion for the js carousel on index page */
 /*! http://responsiveslides.com v1.54 by @viljamis */
-<<<<<<< HEAD
+
 #slideshow {
 	margin: auto;
     margin-bottom: 50px;
     position: relative;
     width: 95%;
 }
-=======
->>>>>>> 3fe178a9788c465ad4cd237f0f499b3463a8e346
+
 
 .rslides {
   position: relative;
