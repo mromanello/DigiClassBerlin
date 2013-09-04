@@ -5,6 +5,10 @@ topics: seminar, 2012/2013, berlin
 ---
 [Dr Gabriel Bodard (King’s College London)](http://www.kcl.ac.uk/artshums/depts/ddh/people/research/bodard) will be giving the opening keynote of the Digital Classicist Berlin Seminar series entitled **“A View on Digital Classics Collaboration: from a cacophony of epigraphic databases to a citizens' web of inscriptions”**.
 
+<div id="pref_cit_box">
+Bodard, Gabriel. "A View on Digital Classics Collaboration: from a cacophony of epigraphic databases to a citizens’ web of inscriptions". Digital Classicist Seminar Berlin. DAI Wieglandhaus, Berlin. October 23, 2012. Available at: <a href="http://hdl.handle.net/11858/00-1780-0000-000B-02A1-C" target="_blank">http://hdl.handle.net/11858/00-1780-0000-000B-02A1-C</a>
+</div>
+
 **Permalink:** <http://hdl.handle.net/11858/00-1780-0000-000B-02A1-C>
 
 **Date:** Tuesday, 23 October 2012

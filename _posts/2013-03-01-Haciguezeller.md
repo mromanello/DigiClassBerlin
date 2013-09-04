@@ -7,6 +7,10 @@ topics: seminar, 2012/2013, berlin
 <strong>Talk:</strong> 	Dr. Piraye Hacigüzeller (Katholieke Universiteit Leuven) "GIS-Based Metric and Visual Integration Analysis: Potential Applications and Methodological Issues".
 </p>
 
+<div id="pref_cit_box">
+Hacigüzeller, Piraye. "GIS-Based Metric and Visual Integration Analysis: Potential Applications and Methodological Issues". Digital Classicist Seminar Berlin. TOPOI-Haus Dahlem, Berlin. March 05, 2013. Available at: <a href="http://hdl.handle.net/11858/00-1780-0000-000E-01D2-C" target="_blank">http://hdl.handle.net/11858/00-1780-0000-000E-01D2-C</a>
+</div>
+
 **Permalink:** <http://hdl.handle.net/11858/00-1780-0000-000E-01D2-C>
 
 **Date:** Tuesday, 05 March 2013

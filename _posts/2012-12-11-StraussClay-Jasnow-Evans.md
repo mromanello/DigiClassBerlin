@@ -8,6 +8,10 @@ topics: seminar, 2012/2013, berlin
 
 </p>
 
+<div id="pref_cit_box">
+Jasnow, Benjamin; Evan, Courtney; Strauss Clay, Jenny . "Mapping the Catalogue of Ships". Digital Classicist Seminar Berlin. TOPOI-Haus Dahlem, Berlin. December 18, 2012. Available at: <a href="http://hdl.handle.net/11858/00-1780-0000-000C-110A-D" target="_blank">http://hdl.handle.net/11858/00-1780-0000-000C-110A-D</a>
+</div>
+
 **Permalink:** <http://hdl.handle.net/11858/00-1780-0000-000C-110A-D>
 
 **Date:** Tuesday, 18 Decemebr 2012

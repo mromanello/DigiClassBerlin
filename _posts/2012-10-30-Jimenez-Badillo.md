@@ -7,6 +7,10 @@ topics: seminar, 2012/2013, berlin
 <strong>Talk:</strong> Diego Jiménez-Badillo (INAH, Mexico), Salvador Ortíz-Correa and Omar Mendoza-Montoya (CIMAT, Mexico) "Classifying Formal Features of Archaeological Artefacts through the Application of Spectral Clustering".
 </p>
 
+<div id="pref_cit_box">
+Jiménez-Badillo, Diego; Ortíz-Correa, Salvador; Mendoza-Montoya, Omar. "Classifying Formal Features of Archaeological Artefacts through the Application of Spectral Clustering". Digital Classicist Seminar Berlin. DAI Wieglandhaus, Berlin. November 06, 2012. Available at: <a href="http://hdl.handle.net/11858/00-1780-0000-000B-216A-E" target="_blank">http://hdl.handle.net/11858/00-1780-0000-000B-216A-E</a>
+</div>
+
 **Permalink:** <http://hdl.handle.net/11858/00-1780-0000-000B-216A-E>
 
 **Date:** Tuesday, 06 November 2012

@@ -8,6 +8,11 @@ topics: seminar, 2012/2013, berlin
 
 </p>
 
+<div id="pref_cit_box">
+Sahle, Patrick; Henny, Ulrike. "Egyptology meets Digital Humanities: the Book of the Dead". Digital Classicist Seminar Berlin. TOPOI-Haus Dahlem, Berlin. January 08, 2013. Available at: <a href="http://hdl.handle.net/11858/00-1780-0000-000D-EC9A-0" target="_blank">http://hdl.handle.net/11858/00-1780-0000-000D-EC9A-0</a>
+</div>
+
+
 **Permalink:** <http://hdl.handle.net/11858/00-1780-0000-000D-EC9A-0>
 
 **Date:** Tuesday, 8 January 2013
