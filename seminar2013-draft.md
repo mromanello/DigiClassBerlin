@@ -25,6 +25,7 @@ Date | Speaker(s) | Title | Venue | Materials
 14.01.2013 | Amir Zelder (HU) | *Towards Digital Coptic: Searching and Visualizing Coptic Manuscript Data* | TOPOI-Haus Dahlem | [abstract]() video slides
 28.01.2013 | Henry Mendell  (California State University, USA) | *Visualization of Ancient Cosmological Models: a presentation of completed work and some difficulties* | TOPOI-Haus Dahlem | [abstract]() video slides
 11.02.2013 | Rainer Komp (DAI) | *Chronological Concepts of the Ancient World in Linked Data* | TOPOI-Haus Dahlem |  [abstract]() video slides
+11.02.2013 | Georg Roth (Universität zu Köln) | *Die Rückkehr des Leitfundes? Die Verwendung der ökologischen Indikator-Arten-Analyse als archäologische Indikator-Typen-Analyse.* | TOPOI-Haus Dahlem |  [abstract]() video slides
 
 
 <div style="text-align: center">ALL WELCOME
