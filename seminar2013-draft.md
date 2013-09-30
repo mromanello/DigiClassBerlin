@@ -15,7 +15,7 @@ Date | Speaker(s) | Title | Venue | Materials
 -----------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------	 
 08.10.2013 | Simon Mahony (UCL) | *Open Education, Open Educational Resources, and their impact on research led teaching in Classics.* | TOPOI-Haus Mitte| [abstract]() video slides
 22.10.2013 | Martina Trognitz (DAI) | *EVA: An Expert System for Vases of the Antiquity* | TOPOI-Haus Mitte | [abstract]() video slides
-05.11.2013 | Eric Poehler (UMass, USA) | *TBA* | TOPOI-Haus Mitte | [abstract]() video slides
+05.11.2013 | Eric Poehler (UMass, USA) | *The Pompeii Bibliography and Mapping Project. A new resource for Pompeii, a new model complex for classical sites* | TOPOI-Haus Mitte | [abstract]() video slides
 19.11.2013 | Torsten Roeder (BBAW), Yury Arzhanov (Ruhr­Universität Bochum) | *The Glossarium Graeco­Arabicum. Linguistic Research and Database Design in Polyalphabetic Environments* | TOPOI-Haus Mitte| [abstract]() video slides
 03.12.2013 | Gregory Crane, Stella Dee, Maryam Foradi, Monica Lent, Maria Moritz (Universität Leipzig) | *Dynamic Syllabi for Historical Language Instruction* | TOPOI-Haus Mitte | [abstract]() video slides
 17.12.2013 | Agnes Thomas, Alexander Recht, Karen Schwane (Universität Cologne) | *The Hellespont Project: Integrating Arachne and Perseus in a new Linked Data interface* | TOPOI-Haus Mitte | [abstract]() video slides
