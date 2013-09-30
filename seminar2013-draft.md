@@ -14,21 +14,13 @@ Or download the **poster** with the full programme ([PDF here](/berlin/files/Pos
 Date | Speaker(s) | Title | Venue | Materials
 -----------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------	 
 08.10.2013 | Simon Mahony (UCL) | *Open Education, Open Educational Resources, and their impact on research led teaching in Classics.* | TOPOI Haus Mitte| [abstract]() video slides
-
 22.10.2013 | Martina Trognitz (DAI) | *EVA: An Expert System for Vases of the Antiquity* | TOPOI Haus Mitte | [abstract]() video slides
-
 05.11.2013 | Eric Poehler (UMass, USA) | *TBA* | TOPOI Haus Mitte | [abstract]() video slides
-
 19.11.2013 | Torsten Roeder (BBAW), Yury Arzhanov (Ruhr­Universität Bochum) | *The Glossarium Graeco­Arabicum. Linguistic Research and Database Design in Polyalphabetic Environments* | [abstract]() video slides
-
 03.12.2013 | Gregory Crane, Stella Dee, Maryam Foradi, Monica Lent, Maria Moritz (Universität Leipzig) | *Dynamic Syllabi for Historical Language Instruction* | [abstract]() video slides
-
 17.12.2013 | Agnes Thomas, Alexander Recht, Karen Schwane (Universität Cologne) | *The Hellespont Project: Integrating Arachne and Perseus in a new Linked Data interface* | [abstract]() video slides
-
 14.01.2013 | Amir Zelder (HU) | *Towards Digital Coptic: Searching and Visualizing Coptic Manuscript Data* | [abstract]() video slides
-
 28.01.2013 | Henry Mendell  (CSU) | *Visualization of Ancient Cosmological Models: a presentation of completed work and some difficulties* | [abstract]() video slides
-
 11.02.2013 | Rainer Komp (DAI) | *Chronological Concepts of the Ancient World in Linked Data* | [abstract]() video slides
 
 
