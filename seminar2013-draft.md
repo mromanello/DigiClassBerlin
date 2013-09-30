@@ -6,7 +6,9 @@ title: Seminar Programme
 # Seminar Programme (2013/2014)
 
 Seminars take place on **Tuesdays (starting at 18:00 c.t.)** on a fortnightly basis at the TOPOI-Haus Mitte or Dahlem (see below).
+
 <!--
+
 The **programme calendar** is also available as [(public) Google Calendar](https://www.google.com/calendar/embed?src=aicf2vlsr7t34v4qrju5fiso54%40group.calendar.google.com&ctz=Europe/Berlin) (iCal for subscription [here](https://www.google.com/calendar/ical/aicf2vlsr7t34v4qrju5fiso54%40group.calendar.google.com/public/basic.ics)): subscribe to it in order to get further details and timely reminders for all the seminar events!
 
 Or download the **poster** with the full programme ([PDF here](/berlin/files/Poster-Full-Programme.pdf)) and put it up on your institution's notice board.
