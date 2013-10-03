@@ -7,6 +7,13 @@ title: Seminar Programme
 
 Seminars take place on **Tuesdays (starting at 18:00 c.t.)** on a fortnightly basis at the TOPOI Building Mitte or Dahlem ([see below](#venues)).
 
+<!--
+
+The **programme calendar** is also available as [(public) Google Calendar](https://www.google.com/calendar/embed?src=aicf2vlsr7t34v4qrju5fiso54%40group.calendar.google.com&ctz=Europe/Berlin) (iCal for subscription [here](https://www.google.com/calendar/ical/aicf2vlsr7t34v4qrju5fiso54%40group.calendar.google.com/public/basic.ics)): subscribe to it in order to get further details and timely reminders for all the seminar events!
+
+Or download the **poster** with the full programme ([PDF here](/berlin/files/Poster-Full-Programme.pdf)) and put it up on your institution's notice board.
+-->
+
 Date | Speaker(s) | Title | Venue | Materials
 -----------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------	 
 08.10.2013 | Simon Mahony (UCL) | *Open Education, Open Educational Resources, and their impact on research led teaching in Classics.* | [TOPOI Building Mitte](#topoi_building_mitte)| [abstract](http://hdl.handle.net/11858/00-1780-0000-0022-D53B-9#abstract) video slides
@@ -28,7 +35,11 @@ Humboldt-Universität zu Berlin, Topoi Building Mitte, Hannoversche Straße 6 10
 
 ## TOPOI Building Dahlem
 
+<<<<<<< HEAD
 Freie Universität Berlin, Topoi Building Dahlem, Hittorfstraße 18 D-14195 Berlin [(map)](https://maps.google.de/maps?q=Hittorfstra%C3%9Fe+18,+Dahlem,+Berlin&hl=de&ie=UTF8&ll=52.449929,13.284853&spn=0.007062,0.01929&sll=52.449641,13.283951&sspn=0.007062,0.01929&t=h&hnear=Hittorfstra%C3%9Fe+18,+14195+Berlin&z=16)
+=======
+Freie Universität Berlin, Topoi Building Dahlem, Hittorfstraße 18 D-14195 Berlin [(map)](http://maps.google.de/maps?f=q&source=s_q&hl=de&geocode=&q=Topoi-Haus,+Hittorfstra%C3%9Fe+18,+Dahlem,+Berlin&sll=52.450923,13.282428&sspn=0.011639,0.020814&g=berlin+hittorfstra%C3%9Fe+18&ie=UTF8&ll=52.449641,13.283951&spn=0.011639,0.020814&t=h&z=16)
+>>>>>>> a8b0453c2b3a23742f50f5f6f888ec74a88291c9
 
 
 <div style="text-align: center">ALL WELCOME
