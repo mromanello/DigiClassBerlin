@@ -96,11 +96,15 @@
     <div id="site_content">
       <div class="sidebar">
 		<h1>Latest News</h1>
-		{% for post in site.posts limit:2 %}
+		{% for post in site.posts limit:3 %}
+			<div>
 			<h2>{{post.title}}</h2>
-			<h3>{{ post.date | date: "%d %B %Y" }}</h3>
-			{{ post.content | truncate: 150 }}
+			<!--{{ post.content | truncate: 150 }}
+			<h3>{{ post.date | date: "%d %B %Y" }}</h3>-->
+			<p>
 				Read more <a href="/berlin{{post.url}}">here</a>.
+			</p>
+			</div>
 		{% endfor %}
 
         <h1>Partner Sites</h1>
