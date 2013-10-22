@@ -35,11 +35,7 @@ Humboldt-Universität zu Berlin, Topoi Building Mitte, Hannoversche Straße 6 10
 
 ## TOPOI Building Dahlem
 
-<<<<<<< HEAD
 Freie Universität Berlin, Topoi Building Dahlem, Hittorfstraße 18 D-14195 Berlin [(map)](https://maps.google.de/maps?q=Hittorfstra%C3%9Fe+18,+Dahlem,+Berlin&hl=de&ie=UTF8&ll=52.449929,13.284853&spn=0.007062,0.01929&sll=52.449641,13.283951&sspn=0.007062,0.01929&t=h&hnear=Hittorfstra%C3%9Fe+18,+14195+Berlin&z=16)
-=======
-Freie Universität Berlin, Topoi Building Dahlem, Hittorfstraße 18 D-14195 Berlin [(map)](http://maps.google.de/maps?f=q&source=s_q&hl=de&geocode=&q=Topoi-Haus,+Hittorfstra%C3%9Fe+18,+Dahlem,+Berlin&sll=52.450923,13.282428&sspn=0.011639,0.020814&g=berlin+hittorfstra%C3%9Fe+18&ie=UTF8&ll=52.449641,13.283951&spn=0.011639,0.020814&t=h&z=16)
->>>>>>> a8b0453c2b3a23742f50f5f6f888ec74a88291c9
 
 
 <div style="text-align: center">ALL WELCOME
