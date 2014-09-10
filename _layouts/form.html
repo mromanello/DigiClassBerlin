@@ -105,15 +105,19 @@
     </div>
     <div id="site_content">
       <div class="sidebar">
-		<h1>Latest News</h1>
-		{% for post in site.posts limit:5 %}
-			<h2>{{post.title}}</h2>
-			<h3>{{ post.date | date: "%d %B %Y" }}</h3>
-			{{ post.content | truncate: 150 }}
-				Read more <a href="/berlin{{post.url}}">here</a>.
-		{% endfor %}
 
-        <h1>Partner Sites</h1>
+			{% for post in site.posts limit: 3%}
+				<div>
+				<h2>{{post.title}}</h2>
+				<!--{{ post.content | truncate: 150 }}
+				<h3>{{ post.date | date: "%d %B %Y" }}</h3>-->
+				<p>
+					Read more <a href="/berlin{{post.url}}">here</a>.
+				</p>
+				</div>
+			{% endfor %}
+
+        <h2>Partner Sites</h2>
         <ul>
           <li><a target="_blank" href="http://digitalclassicist.org/">The Digital Classicist</a></li>
 		  <li><a target="_blank" href="http://www.e-humanities.net/events/2012-ehum-seminar-call.html">Leipzig e-Humanities Seminar</a></li>
@@ -122,77 +126,24 @@
 
         </ul>
 
-		<a href="http://www.dainst.org" target="_blank">
-			<img src="/berlin/files/dai_logo.png" height="80px" alt="" title="" style="margin-left:50px"/>
-		</a>
-		<a href="http://www.topoi.org" target="_blank">
-			<img src="/berlin/files/topoi_logo.png" width="190px" alt="" title=""/>
-		</a>
+			<h2>Supported by</h2><br/>
+
+			<a href="http://www.dainst.org" target="_blank">
+				<img src="/berlin/files/dai_logo.png" height="80px" alt="" title="" style="margin-left:50px"/>
+			</a>
+			<a href="http://www.topoi.org" target="_blank">
+				<img src="/berlin/files/topoi_logo.png" width="190px" alt="" title=""/>
+			</a>
+
+			<a href="http://de.dariah.eu" target="_blank">
+				<img src="/berlin/files/DARIAH-DE_Logo.jpg" width="150px" alt="Logo of DARIAH-DE" title=""/>
+			</a>
 
       </div>
       
       <div id="content">
 	{{content}}
-	<!--
-	<form class="jotform-form" action="http://submit.jotformeu.com/submit.php" method="post" enctype="multipart/form-data" name="form_21904077586359" id="21904077586359" accept-charset="utf-8">
-	  <input type="hidden" name="formID" value="21904077586359" />
-	  <div class="form-all">
-	    <ul class="form-section">
-	      <li id="cid_1" class="form-input-wide">
-	        <div class="form-header-group">
-	        </div>
-	      </li>
-	      <li class="form-line form-line-column" id="id_3">
-	        <label class="form-label-top" id="label_3" for="input_3"> Name <span class="form-required">*</span></label>
-	        <div id="cid_3" class="form-input-wide"><span class="form-sub-label-container"><input class="form-textbox validate[required]" type="text" size="10" name="q3_fullName3[first]" id="first_3" />
-	            <label class="form-sub-label" for="first_3" id="sublabel_first"> First Name </label></span><span class="form-sub-label-container"><input class="form-textbox validate[required]" type="text" size="15" name="q3_fullName3[last]" id="last_3" />
-	            <label class="form-sub-label" for="last_3" id="sublabel_last"> Last Name </label></span>
-	        </div>
-	      </li>
-	      <li class="form-line form-line-column" id="id_4">
-	        <label class="form-label-top" id="label_4" for="input_4"> E-mail <span class="form-required">*</span></label>
-	        <div id="cid_4" class="form-input-wide"><span class="form-sub-label-container"><input type="email" class="form-textbox validate[required] validate[Email]" id="input_4" name="q4_email4" size="30" />
-	            <label class="form-sub-label" for="input_4"> So that we can get back to you </label></span>
-	        </div>
-	      </li>
-	      <li class="form-line" id="id_6">
-	        <label class="form-label-top" id="label_6" for="input_6"> Description </label>
-	        <div id="cid_6" class="form-input-wide"><span class="form-sub-label-container"><textarea id="input_6" class="form-textarea" name="q6_description" cols="57" rows="6"></textarea>
-	            <label class="form-sub-label" for="input_6"> Should we need to know anything about this file? </label></span>
-	        </div>
-	      </li>
-	      <li class="form-line" id="id_5">
-	        <label class="form-label-top" id="label_5" for="input_5">
-	          Upload File<span class="form-required">*</span>
-	        </label>
-	        <div id="cid_5" class="form-input-wide"><span class="form-sub-label-container"><div class="qq-uploader-buttonText-value">
-	              Upload a File
-	            </div>
-	            <input class="form-upload-multiple validate[required]" type="file" id="input_5" name="q5_uploadFile[]" multiple="multiple" file-accept="*" file-maxsize="5120" />
-	            <label class="form-sub-label" for="input_5"> You can upload any type of file. Max: 5 MB </label></span>
-	        </div>
-	      </li>
-	      <li class="form-line" id="id_2">
-	        <div id="cid_2" class="form-input-wide">
-	          <div style="text-align:left" class="form-buttons-wrapper">
-	            <button id="input_2" type="submit" class="form-submit-button">
-	              Send Now!
-	            </button>
-	          </div>
-	        </div>
-	      </li>
-	      <li style="display:none">
-	        Should be Empty:
-	        <input type="text" name="website" value="" />
-	      </li>
-	    </ul>
-	  </div>
-	  <input type="hidden" id="simple_spc" name="simple_spc" value="21904077586359" />
-	  <script type="text/javascript">
-	  document.getElementById("si" + "mple" + "_spc").value = "21904077586359-21904077586359";
-	  </script>
-	</form>
-	-->
+	<script type="text/javascript" src="http://form.jotformeu.com/jsform/41633081035344"></script>
       </div>
       
     </div>

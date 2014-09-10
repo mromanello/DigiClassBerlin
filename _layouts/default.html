@@ -54,23 +54,27 @@
 	  {% if page.title == 'Blog' %}
           <li class="selected"><a href="/berlin/blog">Blog</a></li>
 	  {% else %}
-	  <li><a href="/berlin/blog">Blog</a></li>
+	  	<li><a href="/berlin/blog">Blog</a></li>
 	  {% endif %}
 	  {% if page.title == 'Seminar Programme' %}
           <li class="selected"><a href="/berlin/seminar2013">Programme</a></li>
 	  {% else %}
-	  <li><a href="/berlin/seminar2013">Programme</a></li>
+	  	<li><a href="/berlin/seminar2013">Programme</a></li>
 	  {% endif %}
 	  {% if page.title == 'Call for Papers' %}
-	  <li class="selected"><a href="/berlin/cfp">CfP</a></li>
+	  	<li class="selected"><a href="/berlin/cfp">CfP</a></li>
 	  {% else %}
-	  <li><a href="/berlin/cfp">CfP</a></li>
+	 	 <li><a href="/berlin/cfp">CfP</a></li>
 	  {% endif %}
-	 <li><a href="/berlin/submit">Submit</a></li>
-	  {% if page.title == 'About' %}
-	  <li class="selected"><a href="/berlin/about">About</a></li>
+	  {% if page.title == 'Submit' %}
+	  	<li class="selected"><a href="/berlin/submit">Submit</a></li>
 	  {% else %}
-	  <li><a href="/berlin/about">About</a></li>
+	 	 <li><a href="/berlin/submit">Submit</a></li>
+	 {% endif %}
+	  {% if page.title == 'About' %}
+	  	<li class="selected"><a href="/berlin/about">About</a></li>
+	  {% else %}
+	  	<li><a href="/berlin/about">About</a></li>
 	  {% endif %}
 	
 	  <!--
@@ -95,7 +99,7 @@
     </div>
     <div id="site_content">
       <div class="sidebar">
-		<h1>Latest News</h1>
+
 		{% for post in site.posts limit:3 %}
 			<div>
 			<h2>{{post.title}}</h2>
@@ -107,7 +111,7 @@
 			</div>
 		{% endfor %}
 
-        <h1>Partner Sites</h1>
+        <h2>Partner Sites</h2>
         <ul>
           <li><a target="_blank" href="http://digitalclassicist.org/">The Digital Classicist</a></li>
 		  <li><a target="_blank" href="http://www.e-humanities.net/events/2012-ehum-seminar-call.html">Leipzig e-Humanities Seminar</a></li>
@@ -116,12 +120,18 @@
 	   	  <li><a target="_blank" href="http://www.cceh.uni-koeln.de/">Cologne Center for eHumanities (CCeH)</a></li>
 		
         </ul>
+
+		<h2>Supported by</h2><br/>
         
 		<a href="http://www.dainst.org" target="_blank">
 			<img src="/berlin/files/dai_logo.png" height="80px" alt="" title="" style="margin-left:50px"/>
 		</a>
 		<a href="http://www.topoi.org" target="_blank">
 			<img src="/berlin/files/topoi_logo.png" width="190px" alt="" title=""/>
+		</a>
+		
+		<a href="http://de.dariah.eu" target="_blank">
+			<img src="/berlin/files/DARIAH-DE_Logo.jpg" width="150px" alt="Logo of DARIAH-DE" title=""/>
 		</a>
 
       </div>

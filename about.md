@@ -5,7 +5,17 @@ title: About
 
 # About
 
-Current organizing committee:
+Current Organizing committee:
+
+* Matteo Romanello <a href="http://phd.mr56k.info/about#bio" target="_blank">(DAI/KCL)</a>
+* Felix Schäfer <a href="http://www.dainst.org/de/profile/felix-f-schaefer" target="_blank">(DAI)</a>
+* Dominik Lukas <a href="http://www.topoi.org/person/lukas-dominik/" target="_blank">(FU/TOPOI)</a>
+* Undine Lieberwirth <a href="http://www.topoi.org/person/lieberwirth-undine/" target="_blank">(FU/TOPOI)</a>
+* Fabian Körner <a href="http://wiki.digitalclassicist.org/User:FabianKoerner" target="_blank">(DC)</a>
+* Nora Unger
+* Martina Trognitz <a href="http://www.dainst.org/en/profile/martina-trognitz" target="_blank">(DAI)</a>
+
+Organizing committee for the academic year 2013-2014:
 
 * Matteo Romanello <a href="http://phd.mr56k.info/about#bio" target="_blank">(DAI/KCL)</a>
 * Felix Schäfer <a href="http://www.dainst.org/de/profile/felix-f-schaefer" target="_blank">(DAI)</a>

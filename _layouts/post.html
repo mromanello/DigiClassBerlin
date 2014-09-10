@@ -76,7 +76,7 @@
     </div>
     <div id="site_content">
       <div class="sidebar">
-		<h1>Latest News</h1>
+
 		{% for post in site.posts limit: 3%}
 			<div>
 			<h2>{{post.title}}</h2>
@@ -88,7 +88,7 @@
 			</div>
 		{% endfor %}
 
-        <h1>Partner Sites</h1>
+        <h2>Partner Sites</h2>
         <ul>
           <li><a target="_blank" href="http://digitalclassicist.org/">The Digital Classicist</a></li>
 		  <li><a target="_blank" href="http://www.e-humanities.net/events/2012-ehum-seminar-call.html">Leipzig e-Humanities Seminar</a></li>
@@ -98,12 +98,18 @@
 
         </ul>
 
-		<a href="http://www.dainst.org" target="_blank">
-			<img src="/berlin/files/dai_logo.png" height="80px" alt="" title="" style="margin-left:50px"/>
-		</a>
-		<a href="http://www.topoi.org" target="_blank">
-			<img src="/berlin/files/topoi_logo.png" width="190px" alt="" title=""/>
-		</a>
+			<h2>Supported by</h2><br/>
+
+			<a href="http://www.dainst.org" target="_blank">
+				<img src="/berlin/files/dai_logo.png" height="80px" alt="" title="" style="margin-left:50px"/>
+			</a>
+			<a href="http://www.topoi.org" target="_blank">
+				<img src="/berlin/files/topoi_logo.png" width="190px" alt="" title=""/>
+			</a>
+
+			<a href="http://de.dariah.eu" target="_blank">
+				<img src="/berlin/files/DARIAH-DE_Logo.jpg" width="150px" alt="Logo of DARIAH-DE" title=""/>
+			</a>
 
       </div>
       

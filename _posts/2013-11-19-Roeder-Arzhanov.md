@@ -14,6 +14,10 @@ topics: seminar, 2013/2014, berlin
 
 **Venue:** [TOPOI Building Mitte](http://www.topoi.org/buildings/), Hannoversche Straße 6, Humboldt-Universität zu Berlin, 10115 Berlin [(map)](http://maps.google.de/maps?f=q&source=s_q&hl=de&geocode=&q=berlin+hannoversche+stra%C3%9Fe+6&sll=51.151786,10.415039&sspn=24.62582,42.626953&ie=UTF8&t=h&z=16&iwloc=A)
 
+<img src="/berlin/files/arabic_scholars.jpg" width="600px"/>
+
+<br />
+
 ## Abstract
 
 **Introduction to the Project**
@@ -35,3 +39,21 @@ The coexistence of several alphabetic systems within one web application brings 
 \[3\] <http://www.ruhrunibochum.de/imperia/md/content/orient/glossariumgraecoarabicum.pdf> (20130827)
 
 \[4\] A Greek and Arabic Lexicon, Leiden: Brill, 1992ff.
+
+## Slides
+
+<iframe src="http://de.slideshare.net/slideshow/embed_code/29118743" width="512" height="421" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe>
+
+Or you can download the slides from [here](/berlin/files/slides/dcsb_roeder-arzhanov_2013-11-19.pdf).
+
+## Video
+
+### Talk
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PQwEJzcgcu0" frameborder="0"> </iframe>
+
+### Discussion
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/DDQJW06M1tE" frameborder="0"> </iframe>
+
+Or you can just download the video files (.mp4): [talk](/berlin/files/videos/2013-2014/dcsb_roeder-arzhanov_talk.mp4) (462 MB) ; [discussion](/berlin/files/videos/2013-2014/dcsb_roeder-arzhanov_discussion.mp4) (321 MB).

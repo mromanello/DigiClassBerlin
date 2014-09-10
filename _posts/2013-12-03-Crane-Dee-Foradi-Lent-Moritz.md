@@ -14,6 +14,8 @@ topics: seminar, 2013/2014, berlin
 
 **Venue:** [TOPOI Building Mitte](http://www.topoi.org/buildings/), Hannoversche Straße 6, Humboldt-Universität zu Berlin, 10115 Berlin [(map)](http://maps.google.de/maps?f=q&source=s_q&hl=de&geocode=&q=berlin+hannoversche+stra%C3%9Fe+6&sll=51.151786,10.415039&sspn=24.62582,42.626953&ie=UTF8&t=h&z=16&iwloc=A)
 
+<img src="/berlin/files/dynamic_syllabi.png" width="600px"/>
+
 ## Abstract
 
 The capacity of games to effectively foster second language acquisition in efficient and enjoyable ways suggests unexplored strategies for mutual exchange among educators of historical languages and game designers \[1,2\]. The Ancient Greek and Latin Dependency Treebanks provide enough annotated morphosyntactic data needed to create varied and personalized learning experiences for those studying ancient Greek and Latin \[3\]. We have the raw materials with which to gameify learning Greek and Latin.
@@ -49,3 +51,22 @@ The present paper describes work already completed for, and the reasoning behind
 <http://sites.tufts.edu/perseids/> \[Accessed August 2013\].
 
 \[12\] Crane, G. et al. (2012) Student Researchers, Citizen Scholars and the Trillion Word Library. \[Online\] <http://www.humanities.ufl.edu/pdf/Crane%20Student%20Researchers,%20Citizen%20Scholars,%20and%20the%20Trillion%20Word%20Library.pdf> \[Accessed August 2013\].
+
+## Slides
+
+<iframe src="http://de.slideshare.net/slideshow/embed_code/29118768" width="512" height="421" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe>
+
+Or you can download the slides from [here](/berlin/files/slides/dcsb_moritz-lent-foradi-dee-crane_2013-12-03.pdf).
+
+## Video
+
+### Talk
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/31bxPRYXsZQ" frameborder="0"> </iframe>
+
+### Discussion
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/B1Tg7mLAOUA" frameborder="0"> </iframe>
+
+Or you can just download the video files (.mp4): [talk](/berlin/files/videos/2013-2014/dcsb_crane-dee-foradi-lent-moritz_talk.mp4) (732 MB) ; [discussion](/berlin/files/videos/2013-2014/dcsb_crane-dee-foradi-lent-moritz_discussion.mp4) (251 MB).
+
